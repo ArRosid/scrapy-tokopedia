@@ -1,2 +1,2 @@
 # scrapy-tokopedia
-Scarpy project to scrape tokopedia.com
+Scrapy project to scrape tokopedia.com
