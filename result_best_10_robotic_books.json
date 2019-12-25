@@ -1,0 +1,72 @@
+[
+    {
+        "book_title": "Buku Pintar Robotika, Merancang & Membuat Robot - Taufiq Dwi S Suyadhi",
+        "book_price": "Rp 169.600",
+        "seller_location": "Kab. Sleman",
+        "rating": 5,
+        "rating_count": "3"
+    },
+    {
+        "book_title": "robotika",
+        "book_price": "Rp 65.000",
+        "seller_location": "Jakarta Pusat",
+        "rating": 5,
+        "rating_count": "4"
+    },
+    {
+        "book_title": "ROBOTIKA  SENSOR DAN AKTUATOR   RIYANTO SIGIT   - GRAHA ILMU- BUKU TE",
+        "book_price": "Rp 60.000",
+        "seller_location": "Bandung",
+        "rating": 5,
+        "rating_count": "2"
+    },
+    {
+        "book_title": "Buku Belajar Arduino itu Mudah! - Ebook Robotika Usia 10 - 15",
+        "book_price": "Rp 29.900",
+        "seller_location": "Medan",
+        "rating": 5,
+        "rating_count": "2"
+    },
+    {
+        "book_title": "Buku Robotika - Teori dan Implementasinya",
+        "book_price": "Rp 72.000",
+        "seller_location": "Jakarta Pusat",
+        "rating": 5,
+        "rating_count": "2"
+    },
+    {
+        "book_title": "Buku Robotika: Disain, Kontrol, Dan Kecerdasan Buatan",
+        "book_price": "Rp 87.000",
+        "seller_location": "Jakarta Pusat",
+        "rating": 5,
+        "rating_count": "3"
+    },
+    {
+        "book_title": "Robotika Modern teori & implementasi Edisi Revisi",
+        "book_price": "Rp 67.000",
+        "seller_location": "Bekasi",
+        "rating": 5,
+        "rating_count": "1"
+    },
+    {
+        "book_title": "ROBOTIKA Desain, Kontrol Dan Kecerdasan Buatan",
+        "book_price": "Rp 102.500",
+        "seller_location": "Surabaya",
+        "rating": 5,
+        "rating_count": "1"
+    },
+    {
+        "book_title": "Buku Robotika: Disain, Kontrol, Dan Kecerdasan Buatan",
+        "book_price": "Rp 97.000",
+        "seller_location": "Jakarta Barat",
+        "rating": 5,
+        "rating_count": "1"
+    },
+    {
+        "book_title": "Buku Pintar Robotika.  +cd",
+        "book_price": "Rp 155.000",
+        "seller_location": "Yogyakarta",
+        "rating": 5,
+        "rating_count": "1"
+    }
+]
