@@ -20,5 +20,23 @@ This is some features of this project
     4  Belanja Hemat Akhir Tahun, Diskon hingga Rp 15...  20 - 25 Des 2019          Rp 350.000  DNMYEARENDDB
   </li>
   <br>
-  
+  <li>
+    To get best 10 of robotics book, you can use this command<br>
+    <b><i>scrapy crawl best_10_robotic_books -o result_best_10_robotic_books.json</i></b>
+    <br><br>
+    After get the json output, you can analyze the result using data science tool like pandas   
+ 
+    >>> import pandas as pd
+    >>> df = pd.read_json("result_best_10_robotic_books.json")
+    >>> 
+    >>> df.head()
+                                              book_title  book_price seller_location  rating  rating_count
+    0  Buku Pintar Robotika, Merancang & Membuat Robo...  Rp 169.600     Kab. Sleman       5             3
+    1                                           robotika   Rp 65.000   Jakarta Pusat       5             4
+    2  ROBOTIKA  SENSOR DAN AKTUATOR   RIYANTO SIGIT ...   Rp 60.000         Bandung       5             2
+    3  Buku Belajar Arduino itu Mudah! - Ebook Roboti...   Rp 29.900           Medan       5             2
+    4          Buku Robotika - Teori dan Implementasinya   Rp 72.000   Jakarta Pusat       5             2
+    >>> 
+  </li>
+  <br>
 </ul>
